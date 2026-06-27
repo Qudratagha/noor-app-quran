@@ -24,6 +24,90 @@
       "cover": "covers/aaina-e-amliyat.jpg",
       "sizeBytes": 5509415,
       "pages": 49
+    },
+    {
+      "id": "hezb-al-bahar",
+      "title": "Hizb al-Bahr",
+      "titleUrdu": "حزب البحر",
+      "author": "شیخ ابو الحسن شاذلیؒ",
+      "description": "شیخ ابو الحسن شاذلیؒ کا مشہور حزب — سفر و حفاظت کے لیے",
+      "category": "اوراد و وظائف",
+      "pdf": "hezb-al-bahar.pdf",
+      "cover": "covers/hezb-al-bahar.jpg",
+      "sizeBytes": 8759271,
+      "pages": 25
+    },
+    {
+      "id": "hizb-ul-nasar",
+      "title": "Hizb al-Nasr",
+      "titleUrdu": "حزب النصر",
+      "author": "شیخ ابو الحسن شاذلیؒ",
+      "description": "نصرت و فتح کے لیے مشہور وظیفہ",
+      "category": "اوراد و وظائف",
+      "pdf": "hizb-ul-nasar.pdf",
+      "cover": "covers/hizb-ul-nasar.jpg",
+      "sizeBytes": 1938582,
+      "pages": 9
+    },
+    {
+      "id": "ihya-ul-uloom-jild-1",
+      "title": "Ihya ul-Uloom (Jild 1)",
+      "titleUrdu": "احیاء العلوم (جلد ۱)",
+      "author": "امام محمد بن محمد غزالی شافعیؒ",
+      "description": "امام غزالیؒ کی شہرہ آفاق کتاب کا اردو ترجمہ — جلد اول",
+      "category": "تصوف",
+      "pdf": "ihya-ul-uloom-jild-1.pdf",
+      "cover": "covers/ihya-ul-uloom-jild-1.jpg",
+      "sizeBytes": 48492300,
+      "pages": 1131
+    },
+    {
+      "id": "jin-hamzad-aur-islam",
+      "title": "Jin, Hamzad aur Islam",
+      "titleUrdu": "جن، ہمزاد اور اسلام",
+      "author": "علامہ سید اقتدار احمد سواتی",
+      "description": "جنات و ہمزاد کے بارے میں اسلامی تعلیمات",
+      "category": "روحانیات",
+      "pdf": "jin-hamzad-aur-islam.pdf",
+      "cover": "covers/jin-hamzad-aur-islam.jpg",
+      "sizeBytes": 53256721,
+      "pages": 140
+    },
+    {
+      "id": "surah-e-quraish-karishmaat",
+      "title": "Surah Quraish ke Karishmaat",
+      "titleUrdu": "سورۃ قریش کے کرشمات",
+      "author": "حکیم محمد طارق محمود مجذوبی چغتائی",
+      "description": "سورۃ قریش کے روحانی فوائد و اعمال",
+      "category": "اوراد و وظائف",
+      "pdf": "surah-e-quraish-karishmaat.pdf",
+      "cover": "covers/surah-e-quraish-karishmaat.jpg",
+      "sizeBytes": 9335205,
+      "pages": 32
+    },
+    {
+      "id": "surah-muzammil-mustanad-amaal",
+      "title": "Surah Muzammil Mustanad Amaal",
+      "titleUrdu": "سورۃ المزمل مستند اعمال",
+      "author": "",
+      "description": "سورۃ المزمل کے مستند اعمال و فضائل",
+      "category": "اوراد و وظائف",
+      "pdf": "surah-muzammil-mustanad-amaal.pdf",
+      "cover": "covers/surah-muzammil-mustanad-amaal.jpg",
+      "sizeBytes": 3570123,
+      "pages": 11
+    },
+    {
+      "id": "tohfatull-mashaikh",
+      "title": "Tohfa-tul-Mashaikh",
+      "titleUrdu": "تحفۃ المشائخ",
+      "author": "مرتب: سید نور الزمان نقشبندی شاذلی",
+      "description": "مشائخ نقشبندیہ شاذلیہ کے اوراد و وظائف کا مجموعہ",
+      "category": "تصوف",
+      "pdf": "tohfatull-mashaikh.pdf",
+      "cover": "covers/tohfatull-mashaikh.jpg",
+      "sizeBytes": 26514275,
+      "pages": 32
     }
   ]
 }
