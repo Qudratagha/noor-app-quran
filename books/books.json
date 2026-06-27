@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "shazli-amliyat",
+      "title": "Shazli Amliyat",
+      "titleUrdu": "شاذلی عملیات",
+      "author": "مرتب: مولوی عبدالغفار شاذلی",
+      "description": "روحانی و جسمانی بیماریوں کا علاج — بزبان مفتی امان اللہ شاذلی صاحب",
+      "category": "عملیات",
+      "pdf": "shazli-amliyat.pdf",
+      "cover": "covers/shazli-amliyat.jpg",
+      "sizeBytes": 19118965,
+      "pages": 151
+    },
+    {
+      "id": "aaina-e-amliyat",
+      "title": "Aaina-e-Amliyat",
+      "titleUrdu": "آئینہ عملیات",
+      "author": "دلبر علی خان",
+      "description": "آسان عملیات کی بہترین کتاب",
+      "category": "عملیات",
+      "pdf": "aaina-e-amliyat.pdf",
+      "cover": "covers/aaina-e-amliyat.jpg",
+      "sizeBytes": 5509415,
+      "pages": 49
+    }
+  ]
+}
